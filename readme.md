@@ -1,1 +1,1 @@
-*** Algorithm for bubble sort
+### Algorithm for bubble sort
