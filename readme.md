@@ -96,6 +96,7 @@ printValues does exactly what the name implies, it prints the values we give it.
 * The code should look something like this:
 
 void printValues(int \* values){
+
     int i = 0; //this **must** be zero
     for (i = 0; i < MAX; i++){
         printf("%d ", values[i]);
@@ -120,6 +121,7 @@ swap also does what it says, it swaps any two values we give it with each other.
 * Your code should look along the lines of this:
 
 void swap(int \* xAdd, int \* yAdd){
+
     int xVal = \*xAdd;
     int yVal = \*yAdd;
     \*xAdd = yVal;
