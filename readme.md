@@ -174,6 +174,7 @@ sort is where most of the magic happens with our code. It takes a pointer/addres
 * Your code should look somewhat like this:
 
 void sort(int \* values){
+
     int i = 0;
     int j = 0;
     for (i = 0; i < MAX; i++){
