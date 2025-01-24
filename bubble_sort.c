@@ -41,7 +41,7 @@ void swap(int * xAdd, int * yAdd){
 	*yAdd = xVal;	
 
 }
-
+// sort works
 void sort(int * values){
 	int i = 0;
 	int j = 0;
