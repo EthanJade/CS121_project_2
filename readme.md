@@ -23,7 +23,9 @@
 const int MAX=9;
 
 void printValues(int\*);
+
 void sort(int\*);
+
 void swap(int\*, int\*);
 
 ### main
